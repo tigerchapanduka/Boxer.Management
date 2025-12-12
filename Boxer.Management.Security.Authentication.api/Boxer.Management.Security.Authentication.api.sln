@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxer.Management.Security.Authentication.api", "Boxer.Management.Security.Authentication.api.csproj", "{7AC6CA23-9D05-768A-AF8F-3F332A304EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxer.Management.Security.Authentication.Service", "..\Boxer.Management.Security.Authentication.Service\Boxer.Management.Security.Authentication.Service.csproj", "{901D9244-9BB5-42D3-9F4F-D726DE5C9A6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxer.Management.Security.Authentication.Data", "..\Boxer.Management.Security.Authentication.Data\Boxer.Management.Security.Authentication.Data.csproj", "{934F6348-D51B-409F-B7D2-032FCC951180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AC6CA23-9D05-768A-AF8F-3F332A304EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC6CA23-9D05-768A-AF8F-3F332A304EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC6CA23-9D05-768A-AF8F-3F332A304EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC6CA23-9D05-768A-AF8F-3F332A304EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{901D9244-9BB5-42D3-9F4F-D726DE5C9A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901D9244-9BB5-42D3-9F4F-D726DE5C9A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901D9244-9BB5-42D3-9F4F-D726DE5C9A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901D9244-9BB5-42D3-9F4F-D726DE5C9A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{934F6348-D51B-409F-B7D2-032FCC951180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934F6348-D51B-409F-B7D2-032FCC951180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934F6348-D51B-409F-B7D2-032FCC951180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934F6348-D51B-409F-B7D2-032FCC951180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31DBEF45-8A71-4CAC-AE85-7A1CE3A04584}
+	EndGlobalSection
+EndGlobal

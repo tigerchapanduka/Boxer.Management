@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Source\\Boxer\\Boxer.Managemt.Product.api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73C6CB6A-90BF-45E9-8C03-AD6C3D4A0A7E}|Boxer.Managemt.Product.api.csproj|c:\\source\\boxer\\boxer.managemt.product.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C6CB6A-90BF-45E9-8C03-AD6C3D4A0A7E}|Boxer.Managemt.Product.api.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E932C0E5-2606-4783-BB4B-E7F5944A0CA6}|..\\Boxer.Management.Service\\Boxer.Management.Service.csproj|c:\\source\\boxer\\boxer.management.service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C6CB6A-90BF-45E9-8C03-AD6C3D4A0A7E}|Boxer.Managemt.Product.api.csproj|c:\\source\\boxer\\boxer.managemt.product.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C6CB6A-90BF-45E9-8C03-AD6C3D4A0A7E}|Boxer.Managemt.Product.api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E932C0E5-2606-4783-BB4B-E7F5944A0CA6}|..\\Boxer.Management.Service\\Boxer.Management.Service.csproj|c:\\source\\boxer\\boxer.management.service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01218F0B-4E1F-F278-6418-6D6DBBBFE8BC}|..\\Boxer.Model\\Boxer.Model.csproj|c:\\source\\boxer\\boxer.model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01218F0B-4E1F-F278-6418-6D6DBBBFE8BC}|..\\Boxer.Model\\Boxer.Model.csproj|c:\\source\\boxer\\boxer.model\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA22638-FD25-4F8A-A485-CBD5F5E6F840}|..\\Boxer.Management.Product.Data\\Boxer.Management.Product.Data.csproj|c:\\source\\boxer\\boxer.management.product.data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C6CB6A-90BF-45E9-8C03-AD6C3D4A0A7E}|Boxer.Managemt.Product.api.csproj|c:\\source\\boxer\\boxer.managemt.product.api\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C6CB6A-90BF-45E9-8C03-AD6C3D4A0A7E}|Boxer.Managemt.Product.api.csproj|solutionrelative:databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E932C0E5-2606-4783-BB4B-E7F5944A0CA6}|..\\Boxer.Management.Service\\Boxer.Management.Service.csproj|c:\\source\\boxer\\boxer.management.service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E932C0E5-2606-4783-BB4B-E7F5944A0CA6}|..\\Boxer.Management.Service\\Boxer.Management.Service.csproj|c:\\source\\boxer\\boxer.management.service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2313,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Source\\Boxer\\Boxer.Model\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Boxer.Model\\Product.cs",
+              "ToolTip": "C:\\Source\\Boxer\\Boxer.Model\\Product.cs",
+              "RelativeToolTip": "..\\Boxer.Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T12:32:11.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Source\\Boxer\\Boxer.Managemt.Product.api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Source\\Boxer\\Boxer.Managemt.Product.api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv1EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T09:27:36.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Source\\Boxer\\Boxer.Managemt.Product.api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Source\\Boxer\\Boxer.Managemt.Product.api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAkwH8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T09:29:36.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Source\\Boxer\\Boxer.Management.Product.Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "..\\Boxer.Management.Product.Data\\DatabaseContext.cs",
+              "ToolTip": "C:\\Source\\Boxer\\Boxer.Management.Product.Data\\DatabaseContext.cs",
+              "RelativeToolTip": "..\\Boxer.Management.Product.Data\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T12:31:58.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Source\\Boxer\\Boxer.Managemt.Product.api\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "DatabaseContext.cs",
+              "ToolTip": "C:\\Source\\Boxer\\Boxer.Managemt.Product.api\\DatabaseContext.cs",
+              "RelativeToolTip": "DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T12:52:38.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Source\\Boxer\\Boxer.Management.Service\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "..\\Boxer.Management.Service\\ICategoryService.cs",
+              "ToolTip": "C:\\Source\\Boxer\\Boxer.Management.Service\\ICategoryService.cs",
+              "RelativeToolTip": "..\\Boxer.Management.Service\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T21:11:12.61Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1053,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Source\\Boxer\\Boxer.Management.Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\Boxer.Management.Service\\ProductService.cs",
+              "ToolTip": "C:\\Source\\Boxer\\Boxer.Management.Service\\ProductService.cs",
+              "RelativeToolTip": "..\\Boxer.Management.Service\\ProductService.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAswIMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T17:46:09.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Source\\Boxer\\Boxer.Management.Service\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\Boxer.Management.Service\\IProductService.cs",
+              "ToolTip": "C:\\Source\\Boxer\\Boxer.Management.Service\\IProductService.cs",
+              "RelativeToolTip": "..\\Boxer.Management.Service\\IProductService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAtwBMAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T20:38:58.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Source\\Boxer\\Boxer.Management.Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "..\\Boxer.Management.Service\\CategoryService.cs",
+              "ToolTip": "C:\\Source\\Boxer\\Boxer.Management.Service\\CategoryService.cs",
+              "RelativeToolTip": "..\\Boxer.Management.Service\\CategoryService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T09:41:31.829Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 342,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dto.cs",
+              "DocumentMoniker": "C:\\Source\\Boxer\\Boxer.Model\\Dto.cs",
+              "RelativeDocumentMoniker": "..\\Boxer.Model\\Dto.cs",
+              "ToolTip": "C:\\Source\\Boxer\\Boxer.Model\\Dto.cs",
+              "RelativeToolTip": "..\\Boxer.Model\\Dto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIAwwAsAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:17:29.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

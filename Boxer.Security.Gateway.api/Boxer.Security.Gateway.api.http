@@ -1,0 +1,6 @@
+@Boxer.Security.Gateway.api_HostAddress = http://localhost:5247
+
+GET {{Boxer.Security.Gateway.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

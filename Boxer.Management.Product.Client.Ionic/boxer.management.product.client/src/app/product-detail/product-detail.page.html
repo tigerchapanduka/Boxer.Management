@@ -1,0 +1,42 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+     <ion-title>Product Detail</ion-title>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+   </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Product Detail</ion-title>
+   
+    </ion-toolbar>
+  </ion-header>
+   <div id="container">
+  <ion-list>
+  <ion-item>
+    <ion-input [(ngModel)]="_product.name" label="Name"></ion-input>
+  </ion-item>
+  <ion-item>
+    <ion-input [(ngModel)]="_product.description"  label="Description"></ion-input>
+  </ion-item>
+  <ion-item>
+  <ion-label>Select Category</ion-label>
+  <ion-select [(ngModel)]="_product.categoryId" name="selectedCategory" aria-label="Select Category">
+    @for(category of categoryList; track category.name) {
+      <ion-select-option [value]="category.id">{{ category.name }}</ion-select-option>
+    }
+  </ion-select>
+</ion-item>
+     <ion-item>
+    <ion-input [(ngModel)]="_product.code"  label="Code"></ion-input>
+  </ion-item>
+    <ion-item>
+    <ion-input type="number" [(ngModel)]="_product.cost"  label="Cost"></ion-input>
+  </ion-item>
+
+ </ion-list>
+  </div>
+</ion-content>

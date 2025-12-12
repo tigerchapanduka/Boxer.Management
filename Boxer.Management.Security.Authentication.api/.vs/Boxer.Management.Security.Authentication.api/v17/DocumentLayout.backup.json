@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Source\\Boxer\\Boxer.Management.Security.Authentication.api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC6CA23-9D05-768A-AF8F-3F332A304EFE}|Boxer.Management.Security.Authentication.api.csproj|c:\\source\\boxer\\boxer.management.security.authentication.api\\controllers\\useraccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC6CA23-9D05-768A-AF8F-3F332A304EFE}|Boxer.Management.Security.Authentication.api.csproj|solutionrelative:controllers\\useraccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC6CA23-9D05-768A-AF8F-3F332A304EFE}|Boxer.Management.Security.Authentication.api.csproj|c:\\source\\boxer\\boxer.management.security.authentication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC6CA23-9D05-768A-AF8F-3F332A304EFE}|Boxer.Management.Security.Authentication.api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D9244-9BB5-42D3-9F4F-D726DE5C9A6E}|..\\Boxer.Management.Security.Authentication.Service\\Boxer.Management.Security.Authentication.Service.csproj|c:\\source\\boxer\\boxer.management.security.authentication.service\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934F6348-D51B-409F-B7D2-032FCC951180}|..\\Boxer.Management.Security.Authentication.Data\\Boxer.Management.Security.Authentication.Data.csproj|c:\\source\\boxer\\boxer.management.security.authentication.data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC6CA23-9D05-768A-AF8F-3F332A304EFE}|Boxer.Management.Security.Authentication.api.csproj|c:\\source\\boxer\\boxer.management.security.authentication.api\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC6CA23-9D05-768A-AF8F-3F332A304EFE}|Boxer.Management.Security.Authentication.api.csproj|solutionrelative:databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934F6348-D51B-409F-B7D2-032FCC951180}|..\\Boxer.Management.Security.Authentication.Data\\Boxer.Management.Security.Authentication.Data.csproj|c:\\source\\boxer\\boxer.management.security.authentication.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901D9244-9BB5-42D3-9F4F-D726DE5C9A6E}|..\\Boxer.Management.Security.Authentication.Service\\Boxer.Management.Security.Authentication.Service.csproj|c:\\source\\boxer\\boxer.management.security.authentication.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 186,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Source\\Boxer\\Boxer.Management.Security.Authentication.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Boxer.Management.Security.Authentication.Service\\Class1.cs",
+              "ToolTip": "C:\\Source\\Boxer\\Boxer.Management.Security.Authentication.Service\\Class1.cs",
+              "RelativeToolTip": "..\\Boxer.Management.Security.Authentication.Service\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:24:13.916Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Source\\Boxer\\Boxer.Management.Security.Authentication.api\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "DatabaseContext.cs",
+              "ToolTip": "C:\\Source\\Boxer\\Boxer.Management.Security.Authentication.api\\DatabaseContext.cs",
+              "RelativeToolTip": "DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T15:07:03.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserAccountsController.cs",
+              "DocumentMoniker": "C:\\Source\\Boxer\\Boxer.Management.Security.Authentication.api\\Controllers\\UserAccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserAccountsController.cs",
+              "ToolTip": "C:\\Source\\Boxer\\Boxer.Management.Security.Authentication.api\\Controllers\\UserAccountsController.cs",
+              "RelativeToolTip": "Controllers\\UserAccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:56:14.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Source\\Boxer\\Boxer.Management.Security.Authentication.api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Source\\Boxer\\Boxer.Management.Security.Authentication.api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T15:42:08.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Source\\Boxer\\Boxer.Management.Security.Authentication.Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "..\\Boxer.Management.Security.Authentication.Data\\DatabaseContext.cs",
+              "ToolTip": "C:\\Source\\Boxer\\Boxer.Management.Security.Authentication.Data\\DatabaseContext.cs",
+              "RelativeToolTip": "..\\Boxer.Management.Security.Authentication.Data\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:31:50.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserAccountService.cs",
+              "DocumentMoniker": "C:\\Source\\Boxer\\Boxer.Management.Security.Authentication.Service\\UserAccountService.cs",
+              "RelativeDocumentMoniker": "..\\Boxer.Management.Security.Authentication.Service\\UserAccountService.cs",
+              "ToolTip": "C:\\Source\\Boxer\\Boxer.Management.Security.Authentication.Service\\UserAccountService.cs",
+              "RelativeToolTip": "..\\Boxer.Management.Security.Authentication.Service\\UserAccountService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwFsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:25:59.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Source\\Boxer\\Boxer.Management.Security.Authentication.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Boxer.Management.Security.Authentication.Data\\Class1.cs",
+              "ToolTip": "C:\\Source\\Boxer\\Boxer.Management.Security.Authentication.Data\\Class1.cs",
+              "RelativeToolTip": "..\\Boxer.Management.Security.Authentication.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:45:40.711Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

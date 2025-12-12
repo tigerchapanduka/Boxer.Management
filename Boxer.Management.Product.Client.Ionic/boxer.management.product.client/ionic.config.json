@@ -1,0 +1,7 @@
+{
+  "name": "boxer.management.product.client",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

@@ -1,0 +1,6 @@
+@Boxer.Managemt.Product.api_HostAddress = http://localhost:5067
+
+GET {{Boxer.Managemt.Product.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

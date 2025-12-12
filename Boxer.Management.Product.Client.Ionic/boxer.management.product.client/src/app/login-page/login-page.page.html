@@ -1,0 +1,37 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>Boxer Product Management</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Login</ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <ion-list>
+  <ion-item>
+    <ion-input [(ngModel)]="userName" type="email" placeholder="Username"></ion-input>
+  </ion-item>
+  <ion-item>
+    <ion-input [(ngModel)]="password" type="password" placeholder="Password"></ion-input>
+  </ion-item>
+ </ion-list>
+ <ion-alert
+  [isOpen]="isAlertOpen"
+  header=""
+  subHeader=""
+  [message]="alertMessage"
+  [buttons]="alertButtons"
+  (didDismiss)="setOpen(false)"
+></ion-alert>
+<!--
+<ion-loading 
+[isOpen]="isBusy"
+class="custom-loading" 
+message="Please wait..." 
+></ion-loading>
+-->
+<ion-button (click)="logUser()" >Login</ion-button>
+</ion-content>

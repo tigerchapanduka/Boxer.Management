@@ -1,0 +1,57 @@
+
+<ion-header [translucent]="true">
+  <ion-toolbar>
+     <ion-title>New Product</ion-title>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+   </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+   
+    </ion-toolbar>
+  </ion-header>
+
+  <div id="container">
+  <ion-list>
+  <ion-item>
+    <ion-input [(ngModel)]="_product.name" label="Name"></ion-input>
+  </ion-item>
+  <ion-item>
+    <ion-input [(ngModel)]="_product.description"  label="Description"></ion-input>
+  </ion-item>
+  <ion-item>
+  <ion-label>Select Category</ion-label>
+  <ion-select [(ngModel)]="selectedCategory" name="selectedCategory" aria-label="Select Category">
+    @for(category of categoryList; track category.name) {
+      <ion-select-option [value]="category">{{ category.name }}</ion-select-option>
+    }
+   </ion-select>
+   </ion-item>
+  <ion-item>
+    <ion-input [(ngModel)]="_product.code"  label="Code"></ion-input>
+  </ion-item>
+    <ion-item>
+    <ion-input type="number" [(ngModel)]="_product.cost"  label="Cost"></ion-input>
+  </ion-item>
+
+ </ion-list>
+ <ion-alert
+  [isOpen]="isAlertOpen"
+  header=""
+  subHeader=""
+  [message]="alertMessage"
+  [buttons]="alertButtons"
+  (didDismiss)="setOpen(false)"
+></ion-alert>
+  <ion-loading 
+  [isOpen]="isBusy"
+  class="custom-loading" 
+  message="Please wait..." 
+  ></ion-loading>
+<ion-button (click)="save()" >Save</ion-button>
+  </div>
+</ion-content>
